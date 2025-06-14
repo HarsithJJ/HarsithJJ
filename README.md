@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsith</h1>
 <h3 align="center">Cloud Enthusiast</h3>
 
-<h3 align="left">Connect with me:[LinkedIn](www.linkedin.com/in/jayachandraharsith)</h3>
+[LinkedIn](www.linkedin.com/in/jayachandraharsith)
 <p align="left">
 </p>
 
