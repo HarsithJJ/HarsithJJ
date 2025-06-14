@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsith</h1>
 <h3 align="center">Cloud Enthusiast</h3>
 
-[LinkedIn](www.linkedin.com/in/jayachandraharsith)
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/jayachandraharsith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jayachandraharsith" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/jayachandraharsith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jayachandraharsith" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/jayachandra_harsith/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jayachandra_harsith/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,3 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsithjj&show_icons=true&locale=en" alt="harsithjj" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsithjj&" alt="harsithjj" /></p>
