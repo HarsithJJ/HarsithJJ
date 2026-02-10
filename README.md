@@ -1,30 +1,22 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/UgV8Y7bDxsZDCP01eo/giphy.gif" width="200" alt="Gojo Satoru" />
-  <h1>The README Checklist:</h1>
-</div>
+### Hey there! 👋
 
-### 1. Who are you?
-[cite_start]I'm **Jayachandra Harsith J**, an AI & Data Science student passionate about Cloud Computing and DevOps[cite: 1, 3].
-[cite_start]I love solving complex problems with Python and designing scalable, efficient solutions for the web and AI.
+I'm **Harsith**, an AI & Data Science student and Cloud enthusiast based in **India**.
 
-### 2. What are you currently working on?
-* [cite_start]**AI for Healthcare:** Building a **Brain Tumor Detection** system using GANs and CNNs[cite: 3, 9].
-* [cite_start]**Cloud Skills:** Expanding my knowledge of **Azure** technologies after graduating from the AWS Academy.
-* [cite_start]**Deep Learning:** Optimizing a custom neural network for **Handwritten Digit Recognition**.
+I design scalable solutions and explore the intersection of AI and DevOps.
 
-### 3. What tools do you use?
-| **Category** | **Tech Stack** |
-| :--- | :--- |
-| **Languages** | [cite_start]Python, Java, C, JavaScript  |
-| **Cloud/DevOps**| [cite_start]Docker, Kubernetes, AWS, Git  |
-| **Frameworks** | [cite_start]Django, Pygame, Tkinter  |
+If a complex problem involves cloud infrastructure or neural networks, chances are I'll try to build a solution for it.
 
-### 4. How to reach you?
-* [cite_start]📫 **Email:** [harith2k4@gmail.com](mailto:harith2k4@gmail.com) [cite: 2]
-* [cite_start]💼 **LinkedIn:** [Jayachandra Harsith](https://www.linkedin.com/in/jayachandraharsith) [cite: 4]
-* [cite_start]🧩 **Fun Fact:** I'm a hackathon runner-up and I built a Flappy Bird clone just for fun! [cite: 3, 11]
+My main tech stack is **Python, Java, C, and Django**. My favorite tools for building efficient pipelines are **Docker, Kubernetes, and AWS**.
 
----
-<div align="center">
-  <i>"I design and build whatever I can imagine."</i>
-</div>
+I've got a bunch of interesting projects, but my favorite is the [Brain Tumor Detection System](https://github.com/harsithjj) which uses GANs and CNNs for medical image enhancement.
+
+I'm also actively building custom neural networks, like my **Handwritten Digit Recognition** model, without using standard frameworks just to understand the math behind them.
+
+If you want to connect or see what I'm working on, **[shoot me an email](mailto:harith2k4@gmail.com)** or find me on **[LinkedIn](https://www.linkedin.com/in/jayachandraharsith)**.
+
+**Fun Facts:**
+
+* 🥈 Second runner-up in a hackathon for solving number pattern challenges
+* ☁️ I am an **AWS Academy Graduate** and currently exploring Azure
+* 🐍 I built a **Flappy Bird clone** just to master Python game mechanics
+* **Hobbies:** AI Innovation, Gym, and building things
