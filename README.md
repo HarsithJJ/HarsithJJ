@@ -17,6 +17,5 @@ If you want to connect or see what I'm working on, **[shoot me an email](mailto:
 **Fun Facts:**
 
 * 🥈 Second runner-up in a hackathon for solving number pattern challenges
-* ☁️ I am an **AWS Academy Graduate** and currently exploring Azure
-* 🐍 I built a **Flappy Bird clone** just to master Python game mechanics
-* **Hobbies:** AI Innovation, Gym, and building things
+  * 🐍 I built a **Flappy Bird clone** just to master Python game mechanics
+* **Hobbies:** AI Innovation and building things
